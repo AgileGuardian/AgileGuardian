@@ -11,9 +11,9 @@
 - **Strenght 3:**Adaptability: Ability to stay updated with the latest cybersecurity trends and adapt strategies accordingly.
 
   ### _My core values_
-  * **Value:**Integrity: Commitment to ethical practices and ensuring the confidentiality, integrity, and availability of information.
-  * **Value:**Confidentiality: Dedication to maintaining the privacy and protection of sensitive information.
-  * **Value:**Continuous Improvement: A focus on constantly enhancing security measures and personal skills to stay ahead of emerging threats.
+  * **Value:** Integrity: Commitment to ethical practices and ensuring the confidentiality, integrity, and availability of information.
+  * **Value:** Confidentiality: Dedication to maintaining the privacy and protection of sensitive information.
+  * **Value:** Continuous Improvement: A focus on constantly enhancing security measures and personal skills to stay ahead of emerging threats.
 
   ### **Professional Statement**
 1. #### **Real-World Impact:**
