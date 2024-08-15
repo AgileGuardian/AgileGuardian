@@ -6,9 +6,9 @@
 
 </p>
 
-* **Strenght 1:**Problem-Solving: Crucial for both identifying and mitigating security threats as well as addressing team challenges in Scrum.
-* **Strength 2:**Communication Skills: Essential for explaining complex cybersecurity issues to non-technical stakeholders and for facilitating effective team communication in Scrum.
-- **Strenght 3:**Adaptability: Ability to stay updated with the latest cybersecurity trends and adapt strategies accordingly.
+* **Strenght 1:** Problem-Solving: Crucial for both identifying and mitigating security threats as well as addressing team challenges in Scrum.
+* **Strength 2:** Communication Skills: Essential for explaining complex cybersecurity issues to non-technical stakeholders and for facilitating effective team communication in Scrum.
+- **Strenght 3:** Adaptability: Ability to stay updated with the latest cybersecurity trends and adapt strategies accordingly.
 
   ### _My core values_
   * **Value:** Integrity: Commitment to ethical practices and ensuring the confidentiality, integrity, and availability of information.
