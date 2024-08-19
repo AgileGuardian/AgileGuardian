@@ -27,4 +27,8 @@ As I continue to grow and develop in this field, I am committed to regularly upd
 2. #### **Constant Evolution and Adaptation:**
    * **Why?:** Demonstrating my commitment to staying updated with the latest threats, technologies, and best practices. I am proactive and capable of adapting to the rapidly changing cybersecurity landscape. This adaptability is crucial for maintaining the organization’s security posture.
 3. #### **High Demand and Career Growth**
-   * **Why?:** To point out the high demand for cybersecurity professionals and my commitment to continuous learning and professional development. To signal that I am invested in my career and am very likely to stay on the cutting edge, bringing long-term value to the organization.    
+   * **Why?:** To point out the high demand for cybersecurity professionals and my commitment to continuous learning and professional development. To signal that I am invested in my career and am very likely to stay on the cutting edge, bringing long-term value to the organization.
+  
+| Skills           | Associated Project                                                                                        |
+|------------------|                                                                                                           |
+| Security audit | <a href="https://docs.google.com/document/d/11ykyaTAMoeJkFfi_6Oo43PPRqpOP17lE-wv-fIf7NVs/edit?usp=sharing"> |                
