@@ -30,5 +30,5 @@ As I continue to grow and develop in this field, I am committed to regularly upd
    * **Why?:** To point out the high demand for cybersecurity professionals and my commitment to continuous learning and professional development. To signal that I am invested in my career and am very likely to stay on the cutting edge, bringing long-term value to the organization.
   
 | Skills           | Associated Project                                                                                        |
-|------------------|                                                                                                           |
-| Security audit | <a href="https://docs.google.com/document/d/11ykyaTAMoeJkFfi_6Oo43PPRqpOP17lE-wv-fIf7NVs/edit?usp=sharing"> |                
+|------------------|-----------------------------------------------------------------------------------------------------------|
+| Botium Toys: Scope, goals, and risk assessment report| <a href="https://docs.google.com/document/d/11ykyaTAMoeJkFfi_6Oo43PPRqpOP17lE-wv-fIf7NVs/edit?usp=sharing">Security audit lab</a>|                
