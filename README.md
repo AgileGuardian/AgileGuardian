@@ -31,4 +31,12 @@ As I continue to grow and develop in this field, I am committed to regularly upd
   
 | Skills           | Associated Project                                                                                        |
 |------------------|-----------------------------------------------------------------------------------------------------------|
-| Botium Toys: Scope, goals, and risk assessment report| <a href="https://docs.google.com/document/d/11ykyaTAMoeJkFfi_6Oo43PPRqpOP17lE-wv-fIf7NVs/edit?usp=sharing">Security audit lab</a>|                
+| Botium Toys: Scope, goals, and risk assessment report| <a href="https://docs.google.com/document/d/11ykyaTAMoeJkFfi_6Oo43PPRqpOP17lE-wv-fIf7NVs/edit?usp=sharing">Security audit lab</a>| 
+
+## Certifications
+<div>
+  <img src="https://img.shields.io/badge/-Professional%20Scrum%20Master%20Certification%20(PSM%20I)-FF0000?&style=for-the-badge&logo=Scrum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Certified%20SAFe%206%20Scrum%20Master%20(SAFe)-FF0000?&style=for-the-badge&logo=Scaled%20Agile&logoColor=white" />
+
+
+</div>
