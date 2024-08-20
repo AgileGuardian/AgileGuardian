@@ -40,6 +40,7 @@ As I continue to grow and develop in this field, I am committed to regularly upd
 
 
 </div>
+
 ## Projects
 
 - <a href="https://github.com/AgileGuardian/security-audit/tree/main">Security audit lab</a>
