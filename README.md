@@ -32,6 +32,7 @@ As I continue to grow and develop in this field, I am committed to regularly upd
 | Skills           | Associated Project                                                                                        |
 |------------------|-----------------------------------------------------------------------------------------------------------|
 | Botium Toys: Scope, goals, and risk assessment report| <a href="https://github.com/AgileGuardian/security-audit/tree/main">Security audit lab</a>| 
+|Cybersecurity Incident Report: Network Traffic Analysis| <a href="https://github.com/AgileGuardian/Cybersecurity-Incident-Report/tree/main">Incident report lab</a>|
 
 ## Certifications
 <div>
@@ -44,3 +45,4 @@ As I continue to grow and develop in this field, I am committed to regularly upd
 ## Projects
 
 - <a href="https://github.com/AgileGuardian/security-audit/tree/main">Security audit lab</a>
+- <a href="https://github.com/AgileGuardian/Cybersecurity-Incident-Report/tree/main">Incident report lab</a>
