@@ -37,6 +37,7 @@ As I continue to grow and develop in this field, I am committed to regularly upd
 |Cybersecurity incident report : Brute Force|<a href="https://github.com/AgileGuardian/Security-incident-report-Brute-force/tree/main"> incident report brute force|
 |Cybersecurity risk assessment : Hardening | <a href="https://github.com/AgileGuardian/Security-risk-assessment-report"> Risk assessment report|
 |Cybersecurity incident report analysis | <a href="https://github.com/AgileGuardian/Incident-report-analysis"> Incident report analysis DDoS|
+|cybersecurity authorization management | <a href="https://github.com/AgileGuardian/manage-file-permissions/tree/main"> Authorization management|
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/-Professional%20Scrum%20Master%20Certification%20(PSM%20I)-FF0000?&style=for-the-badge&logo=Scrum&logoColor=white" />
@@ -53,3 +54,4 @@ As I continue to grow and develop in this field, I am committed to regularly upd
 - <a href="https://github.com/AgileGuardian/Security-incident-report-Brute-force/tree/main"> incident report brute force
 - <a href="https://github.com/AgileGuardian/Security-risk-assessment-report"> Risk assessment report
 - <a href="https://github.com/AgileGuardian/Incident-report-analysis"> Incident report analysis DDoS
+- <a href="https://github.com/AgileGuardian/manage-file-permissions/tree/main"> Authorization management
